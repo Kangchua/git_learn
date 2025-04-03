@@ -1,1 +1,2 @@
-olodo
+olodo 
+edit merge - test
